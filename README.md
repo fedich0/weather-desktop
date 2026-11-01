@@ -9,7 +9,6 @@ Bring soft snowfall and drifting autumn leaves to your Mac. Watch them settle on
 
 > **Release status:** source package ready for GitHub. The portable C++ core has passed local tests; the native macOS build and UI still need a successful Mac/Actions run. This repository does not yet provide a verified stable binary. [Verification record](docs/VERIFICATION.md).
 
-[Инструкция публикации на русском](docs/PUBLISH_RU.md) · [Release guide](docs/RELEASE.md) · [Security](SECURITY.md)
 
 ## Make it your weather
 
