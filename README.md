@@ -87,6 +87,5 @@ The internal identifier is retained from the original WindowSnow name to preserv
 
 ## Credits & license
 
-A project by **FediCh**, developed with assistance from ChatGPT/Codex. Icon generated with AI; other bundled artwork was prepared procedurally. [Asset provenance](docs/ASSETS.md).
 
 Released under the [MIT License](LICENSE).
