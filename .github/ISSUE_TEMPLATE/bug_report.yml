@@ -1,0 +1,30 @@
+name: Bug report
+description: Report a reproducible problem in Weather Desktop
+title: '[Bug] '
+body:
+  - type: input
+    id: version
+    attributes:
+      label: App and macOS version
+      placeholder: Weather Desktop 0.9.0, macOS 26, Apple M4
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Include the season, number of displays and settings involved.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant error output
+      description: Remove personal information before sharing.
+      render: text
